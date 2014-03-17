@@ -85,6 +85,7 @@ header('X-UA-Compatible: IE=edge');
 			<a href="http://mathiasjakobsen.dk/">Mathias Jakobsen</a>,
 			<a href="https://twitter.com/jacobamunch">Jacob Munch</a>,
 			<a href="http://about.me/abhisekp/">Abhisek Pattnaik</a>,
+			<a href="http://ryanralph.net">Ryan Ralph</a>
 			Roy Pitchon,
 			Andrew Uhl,
 			and <a href="http://physicianfamily.com/">Physician Family Financial Advisors</a>.
